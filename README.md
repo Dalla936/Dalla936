@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banniere_readme.png" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Dalla%20DIALLO&fontSize=72&color=0:0d0d0d,50:0a0a1a,100:0d0d0d&fontColor=ffffff&stroke=ffffff&strokeWidth=1&desc=just%20a%20developer...%20but%20future%20cybersecurity%20engineer&descColor=aaaaaa&descSize=22&animation=fadeIn&fontAlignY=40&descAlignY=62" width="100%" />
 </p>
 
 <p align="center">
@@ -20,27 +20,18 @@
 ---
 
 <p align="center">
-  Ici tu peux voir toute mon activite GitHub !
+  <i>"La securite n'est pas un produit, c'est un processus."</i>
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="assets/goku.jpg" alt="Goku" style="width:100%; max-width:400px;" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/Dalla936/Dalla936/raw/main/.github/output/metrics.classic.svg" alt="Metrics" style="width:100%; max-width:400px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/jjk.jpg" alt="JJK" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/Dalla936/Dalla936/raw/main/.github/output/metrics.classic.svg" alt="Metrics" width="45%" />
+</p>
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-### A propos de moi
+## A propos de moi
 
 ```yaml
 nom       : Dalla DIALLO
@@ -48,59 +39,46 @@ formation : BUT Informatique - 3eme annee
 universite: Sorbonne Paris Nord
 localite  : France
 statut    : Etudiant en recherche d'alternance
-interets  : Dev Web, Data, DevOps
+objectif  : Devenir Ingenieur en Cybersecurite
+interets  : Cybersecurite, Dev Web, Data, DevOps
 ```
 
-    </td>
-    <td width="50%" valign="top">
-
-### Stats GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dalla936&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-
-    </td>
-  </tr>
-</table>
-
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+## Stack & outils
 
-### Langages les plus utilises
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalla936&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="100%"/>
-
-    </td>
-    <td width="50%" valign="top">
-
-### Stack & outils
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,docker,mysql,postgres&theme=dark&perline=5"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,docker,mysql,postgres&theme=dark&perline=9"/>
 </p>
 
-| Categorie   | Technologies                        |
-|-------------|-------------------------------------|
-| Languages   | Python, Java, JavaScript, HTML/CSS  |
-| Frameworks  | React                               |
-| DevOps      | Docker                              |
-| Databases   | MySQL, PostgreSQL                   |
-
-    </td>
-  </tr>
-</table>
+| Categorie  | Technologies                       |
+|------------|------------------------------------|
+| Languages  | Python, Java, JavaScript, HTML/CSS |
+| Frameworks | React                              |
+| DevOps     | Docker                             |
+| Databases  | MySQL, PostgreSQL                  |
 
 ---
 
-### Activite GitHub
+## Stats GitHub
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dalla936&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dalla936&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalla936&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
+</p>
 
 ---
 
-### Streak
+## Activite GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dalla936&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dalla936&theme=tokyonight&hide_border=true" width="60%"/>
@@ -108,7 +86,7 @@ interets  : Dev Web, Data, DevOps
 
 ---
 
-### Projets en vedette
+## Projets en vedette
 
 <a href="https://github.com/aariisto/MobilleApp_Recommandation_De_Voyage">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aariisto&repo=MobilleApp_Recommandation_De_Voyage&theme=tokyonight&hide_border=true" />
@@ -116,12 +94,12 @@ interets  : Dev Web, Data, DevOps
 
 ---
 
-### Trophees
+## Trophees
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dalla936&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a1a,100:0d0d0d&height=120&section=footer" width="100%"/>
 </p>
