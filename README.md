@@ -19,12 +19,26 @@
 
 ---
 
+<p align="center">
+  Ici tu peux voir toute mon activite GitHub !
+</p>
+
 <table width="100%">
   <tr>
-    <td width="30%" valign="middle" align="center">
-      <img src="assets/goku.jpg" alt="Goku" width="220px" style="border-radius:12px;" />
+    <td width="50%" align="center">
+      <img src="assets/goku.jpg" alt="Goku" style="width:100%; max-width:400px;" />
     </td>
-    <td width="70%" valign="top">
+    <td width="50%" align="center">
+      <img src="https://github.com/Dalla936/Dalla936/raw/main/.github/output/metrics.classic.svg" alt="Metrics" style="width:100%; max-width:400px;" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
 ### A propos de moi
 
@@ -36,6 +50,9 @@ localite  : France
 statut    : Etudiant en recherche d'alternance
 interets  : Dev Web, Data, DevOps
 ```
+
+    </td>
+    <td width="50%" valign="top">
 
 ### Stats GitHub
 
