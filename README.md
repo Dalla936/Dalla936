@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Dalla%20DIALLO&fontSize=50&fontColor=58a6ff&fontAlignY=40&desc=Etudiant%20BUT%20Informatique%20%7C%20Sorbonne%20Paris%20Nord&descColor=8b949e&descAlignY=60" width="100%" />
+  <img src="assets/banniere_readme.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -21,7 +21,10 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="30%" valign="middle" align="center">
+      <img src="assets/goku.jpg" alt="Goku" width="220px" style="border-radius:12px;" />
+    </td>
+    <td width="70%" valign="top">
 
 ### A propos de moi
 
@@ -33,9 +36,6 @@ localite  : France
 statut    : Etudiant en recherche d'alternance
 interets  : Dev Web, Data, DevOps
 ```
-
-    </td>
-    <td width="50%" valign="top">
 
 ### Stats GitHub
 
