@@ -39,13 +39,13 @@
 ## A propos de moi
 
 ```yaml
-nom       : Dalla DIALLO
-formation : BUT Informatique - 3eme annee
-universite: Sorbonne Paris Nord
-localite  : France
-statut    : Etudiant en recherche d'alternance
-objectif  : Devenir Ingenieur en Cybersecurite
-interets  : Cybersecurite, Dev Web, Data, DevOps
+Nom       : Dalla DIALLO
+Formation : BUT Informatique - 3eme annee
+Universite: Sorbonne Paris Nord
+localite  : Aulnay-Sous-Bois,France
+statut    : En recherche d'alternance pour une école d'ingénieurs en septembre 2026
+objectif  : Devenir ingénieur en cybersécurité et me dépasser
+intêrets  : Cybersécurité, Dev Web, Data, DevOps, Architecture logicielle
 ```
 
 ---
@@ -94,12 +94,11 @@ interets  : Cybersecurite, Dev Web, Data, DevOps
 ## Projets en vedette
 
 <p align="center">
-  <a href=\"https://github.com/aariisto/MobilleApp_Recommandation_De_Voyage\">
-    <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=aariisto&repo=MobilleApp_Recommandation_De_Voyage&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=0\" />
+  <a href="https://github.com/aariisto/MobilleApp_Recommandation_De_Voyage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aariisto&repo=MobilleApp_Recommandation_De_Voyage&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=0" />
   </a>
 </p>
-
----
+`
 
 ## Trophees
 
