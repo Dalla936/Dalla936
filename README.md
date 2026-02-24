@@ -88,24 +88,3 @@ intêrets  : Cybersécurité, Dev Web, Data, DevOps, Architecture logicielle
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dalla936&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
-
----
-
-## Projets en vedette
-
-<p align="center">
-  <a href="https://github.com/aariisto/MobilleApp_Recommandation_De_Voyage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aariisto&repo=MobilleApp_Recommandation_De_Voyage&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=0" />
-  </a>
-</p>
-`
-
-## Trophees
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dalla936&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a1a,100:0d0d0d&height=120&section=footer" width="100%"/>
-</p>
