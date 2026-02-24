@@ -23,11 +23,16 @@
   <i>"La securite n'est pas un produit, c'est un processus."</i>
 </p>
 
-<p align="center">
-  <img src="assets/jjk.jpg" alt="JJK" width="45%" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/Dalla936/Dalla936/raw/main/.github/output/metrics.classic.svg" alt="Metrics" width="45%" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="middle" style="min-height:550px;">
+      <img src="assets/gojo_black.jpg" alt="Gojo" style="width:100%; max-width:420px; height:auto;" />
+    </td>
+    <td width="50%" align="center" valign="middle" style="min-height:550px;">
+      <img src="https://github.com/Dalla936/Dalla936/raw/main/.github/output/metrics.classic.svg" alt="Metrics" style="width:100%; max-width:420px; height:auto;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -48,15 +53,15 @@ interets  : Cybersecurite, Dev Web, Data, DevOps
 ## Stack & outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,docker,mysql,postgres&theme=dark&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,docker,mysql,postgres,php,spring,wordpress,mongodb,redis,nodejs&theme=dark&perline=9"/>
 </p>
 
-| Categorie  | Technologies                       |
-|------------|------------------------------------|
-| Languages  | Python, Java, JavaScript, HTML/CSS |
-| Frameworks | React                              |
-| DevOps     | Docker                             |
-| Databases  | MySQL, PostgreSQL                  |
+| Categorie  | Technologies                                                      |
+|------------|-------------------------------------------------------------------|
+| Languages  | Python, Java, JavaScript, PHP, HTML/CSS                            |
+| Frameworks | React, Spring Boot, WordPress                                      |
+| DevOps     | Docker, Node.js                                                    |
+| Databases  | MySQL, PostgreSQL, MongoDB, Redis                                 |
 
 ---
 
@@ -88,9 +93,11 @@ interets  : Cybersecurite, Dev Web, Data, DevOps
 
 ## Projets en vedette
 
-<a href="https://github.com/aariisto/MobilleApp_Recommandation_De_Voyage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aariisto&repo=MobilleApp_Recommandation_De_Voyage&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+  <a href=\"https://github.com/aariisto/MobilleApp_Recommandation_De_Voyage\">
+    <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=aariisto&repo=MobilleApp_Recommandation_De_Voyage&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=0\" />
+  </a>
+</p>
 
 ---
 
